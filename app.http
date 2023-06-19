@@ -1,0 +1,19 @@
+POST http://localhost:3000/register/ 
+
+{
+  "username": "gopi",
+  "password": "gopi123",
+  "name": "Gopi",
+  "gender": "male"
+}
+###
+
+POST http://localhost:3000/login/ 
+
+{
+  "username":"JoeBiden",
+  "password":"biden@123"
+}
+
+
+
